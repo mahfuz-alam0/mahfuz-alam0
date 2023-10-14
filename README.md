@@ -27,3 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-alam0&" alt="mahfuz-alam0" /></p>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-alam0&layout=compact&langs_count=10)](https://github.com/mahfuz-alam0)
