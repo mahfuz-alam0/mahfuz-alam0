@@ -9,14 +9,6 @@
 
 - 💬 Ask me about **React**
 
-`
-function greet(name) {
-    console.log(`Hello, ${name}!`);
-}
-
-greet("Mahfuz Alam");
-`
-
 - 📫 How to reach me **mahfuz.alam.p0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
