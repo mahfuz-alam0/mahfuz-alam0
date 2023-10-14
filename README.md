@@ -10,6 +10,7 @@
 `
 <carusal></carucal>
 `
+**Name:** `<input type="text" disabled value="Mahfuz Alam" style="background: white; border: 1px solid #000;">`
 
 - 💬 Ask me about **React**
 
