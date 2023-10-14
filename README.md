@@ -7,12 +7,15 @@
 
 - 👨‍💻 All of my projects are available at [https://mahfuz-alam0.github.io/personal/](https://mahfuz-alam0.github.io/personal/)
 
-`
-<carusal></carucal>
-`
-**Name:** `<input type="text" disabled value="Mahfuz Alam" style="background: white; border: 1px solid #000;">`
-
 - 💬 Ask me about **React**
+
+```
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
+
+greet("Mahfuz Alam");
+```
 
 - 📫 How to reach me **mahfuz.alam.p0@gmail.com**
 
@@ -31,5 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuz-alam0&show_icons=true&locale=en" alt="mahfuz-alam0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-alam0&" alt="mahfuz-alam0" /></p>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-alam0&layout=compact&langs_count=10)](https://github.com/mahfuz-alam0)
