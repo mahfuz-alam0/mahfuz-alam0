@@ -7,6 +7,10 @@
 
 - 👨‍💻 All of my projects are available at [https://mahfuz-alam0.github.io/personal/](https://mahfuz-alam0.github.io/personal/)
 
+`
+<carusal></carucal>
+`
+
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **mahfuz.alam.p0@gmail.com**
