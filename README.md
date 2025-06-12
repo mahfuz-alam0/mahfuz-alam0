@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahfuz Alam</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mahfuz Alam</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz-alam0&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz-alam0" /> </p>
@@ -31,4 +31,32 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuz-alam0&show_icons=true&locale=en" alt="mahfuz-alam0" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-alam0&" alt="mahfuz-alam0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-alam0&" alt="mahfuz-alam0" /></p> -->
+# 👋 Mahfuz Alam
+
+> Full-Stack Developer crafting web experiences
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-mahfuz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mahfuz-alam0.github.io/personal/)
+
+## About Me
+Building scalable web applications with modern technologies. Passionate about clean code and user experience.
+
+### 🛠 Tech Stack
+```js
+{
+  languages: ['JavaScript', 'TypeScript'],
+  frontend: ['React', 'Redux', 'Tailwind CSS'],
+  backend: ['Node.js', 'Express'],
+  database: ['MongoDB', 'MySQL'],
+  tools: ['Git', 'Firebase']
+}
+```
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=mahfuz-alam0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+
+### 💬 Get in Touch
+- Email: mahfuz.alam.p0@gmail.com
+- LinkedIn: [Hasibul Mahfuz](https://www.linkedin.com/in/hasibul-mahfuz/)
+- Portfolio: [View Projects](https://mahfuz-alam0.github.io/personal/)
