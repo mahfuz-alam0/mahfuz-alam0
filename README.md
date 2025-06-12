@@ -32,7 +32,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-alam0&" alt="mahfuz-alam0" /></p> -->
-# 👋 Mahfuz Alam
+<!-- # 👋 Mahfuz Alam
 
 > Full-Stack Developer crafting web experiences
 
@@ -59,4 +59,72 @@ Building scalable web applications with modern technologies. Passionate about cl
 ### 💬 Get in Touch
 - Email: mahfuz.alam.p0@gmail.com
 - LinkedIn: [Hasibul Mahfuz](https://www.linkedin.com/in/hasibul-mahfuz/)
-- Portfolio: [View Projects](https://mahfuz-alam0.github.io/personal/)
+- Portfolio: [View Projects](https://mahfuz-alam0.github.io/personal/) -->
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mahfuz-alam0/mahfuz-alam0/main/assets/header.png" alt="Header Image" width="100%"/>
+
+  # Mahfuz Alam
+  ### Full-Stack Developer & Tech Enthusiast
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://mahfuz-alam0.github.io/personal/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-mahfuz/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahfuz.alam.p0@gmail.com)
+</div>
+
+## 👨‍💻 About Me
+Passionate Full-Stack Developer with expertise in building modern web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfuz-alam0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-alam0&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🌟 Featured Projects
+<div align="center">
+  <a href="your-project-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahfuz-alam0/&repo=project-name&theme=radical" />
+  </a>
+  <!-- Add more featured projects as needed -->
+</div>
+
+## 📫 Connect With Me
+- 💼 **LinkedIn:** [Hasibul Mahfuz](https://www.linkedin.com/in/hasibul-mahfuz/)
+- 🌐 **Portfolio:** [View My Work](https://mahfuz-alam0.github.io/personal/)
+- 📧 **Email:** mahfuz.alam.p0@gmail.com
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mahfuz-alam0/mahfuz-alam0/main/assets/footer.png" alt="Footer Image" width="100%"/>
+</div>
