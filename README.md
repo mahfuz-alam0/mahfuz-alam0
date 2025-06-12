@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/mahfuz-alam0/mahfuz-alam0/main/assets/header.png" width="100%" alt="Header"/>
-
 <div align="center">
   
-  # 👋 Hey there! I'm **Mahfuz Alam**
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mahfuz%20Alam&fontAlignY=35&textBg=false&animation=fadeIn&rotate=0" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  # 👋 Hey there! I'm **Mahfuz Alam** 
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Junior+Web+Developer+@+Zibew;Full-Stack+Developer;MERN+Stack+Enthusiast;Python+Learner;Desktop+App+Developer" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mahfuz-alam0&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
@@ -20,19 +20,18 @@
 ```javascript
 const mahfuz = {
     location: "Bangladesh 🇧🇩",
-    role: "Full-Stack Developer",
+    currentRole: "Junior Web Developer @ Zibew.com",
     languages: ["JavaScript", "TypeScript", "Python"],
+    specialties: ["MERN Stack", "Desktop Applications", "Web Development"],
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
-- 🔭 I'm currently working on **innovative web solutions**
-- 🌱 I'm currently learning **Advanced React Patterns & DevOps**
+- 🔭 I'm currently working at **Zibew.com** as a **Junior Web Developer**
+- 🌱 I'm currently learning **Python** and exploring **AI/ML concepts**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, MongoDB, or anything tech!**
+- 💬 Ask me about **React, Node.js, MongoDB, Mongoose, Electron.js, or anything tech!**
 - 📫 How to reach me: **mahfuz.alam.p0@gmail.com**
 - ⚡ Fun fact: **I love turning coffee into code ☕→💻**
 
@@ -49,7 +48,7 @@ const mahfuz = {
 
 ### ⚙️ **Backend Power**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,py,electron" />
 </p>
 
 ### 🔧 **Tools & Technologies**
@@ -86,39 +85,38 @@ const mahfuz = {
 
 ---
 
-## 🌟 **Featured Projects**
-
-<div align="center">
-  
-  <a href="https://github.com/mahfuz-alam0/project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahfuz-alam0&repo=project-1&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/mahfuz-alam0/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahfuz-alam0&repo=project-2&theme=tokyonight&hide_border=true" />
-  </a>
-
-</div>
-
----
-
 ## 🎯 **Current Goals**
 
+- 🐍 **Master** Python programming and explore AI/ML applications
 - 🚀 **Contribute** to more open-source projects
-- 📚 **Master** advanced React patterns and performance optimization
-- 🌐 **Build** a SaaS product from scratch
+- 📚 **Advance** my skills in full-stack development at Zibew
+- 🖥️ **Build** more desktop applications with Electron.js
 - 🤝 **Mentor** aspiring developers in the community
 
 ---
 
-## 📬 **Let's Connect!**
+## 📬 **Let's Connect & Collaborate!**
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://mahfuz-alam0.github.io/personal/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-mahfuz/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahfuz.alam.p0@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+  <a href="https://mahfuz-alam0.github.io/personal/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hasibul-mahfuz/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="mailto:mahfuz.alam.p0@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+  </a>
+  
+  <br><br>
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
   
 </div>
 
@@ -129,13 +127,34 @@ const mahfuz = {
   ### 💭 **Random Dev Quote**
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<details>
+<summary>🎮 <strong>Fun Fact Zone</strong></summary>
+
+```javascript
+while(sleeping == false) {
+    eatSnacks();
+    code();
+    coffee++;
+    if(coffee > 10) {
+        takeBreak();
+        coffee = 0;
+    }
+}
+```
+
+</details>
+
+<div align="center">
   
   ---
   
-  <img src="https://raw.githubusercontent.com/mahfuz-alam0/mahfuz-alam0/main/assets/footer.png" width="100%" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
   
   **⭐ Star my repositories if you find them helpful!**
   
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" />
+  ### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
   
 </div>
