@@ -43,17 +43,17 @@ const mahfuz = {
 
 ### 🎨 **Frontend Magic**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,electron,redux,tailwind,sass,bootstrap,mui" />
 </p>
 
 ### ⚙️ **Backend Power**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,py,electron" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,py" />
 </p>
 
 ### 🔧 **Tools & Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman,docker,aws,vercel,ubuntu,linux,netlify,vercel" />
 </p>
 
 </div>
