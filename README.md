@@ -2,9 +2,9 @@
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mahfuz%20Alam&fontAlignY=35&textBg=false&animation=fadeIn&rotate=0" />
   
-  # Hey there! I'm **Mahfuz Alam** 
+  # Hey there! I'm **Mahfuz Alam**
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Junior+Web+Developer+@+Zibew;Full-Stack+Developer;MERN+Stack+Enthusiast;Python+Learner;Desktop+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Alagzoo+Corp;Founder+%40+Devis+AI;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+Enthusiast" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mahfuz-alam0&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
@@ -20,20 +20,21 @@
 ```javascript
 const mahfuz = {
     location: "Bangladesh 🇧🇩",
-    currentRole: "Junior Web Developer @ Zibew.com",
-    languages: ["JavaScript", "TypeScript", "Python"],
-    specialties: ["MERN Stack", "Desktop Applications", "Web Development"],
-    currentFocus: "Building scalable web applications",
+    currentRole: "Full-Stack Developer @ Alagzoo Corp (Bleaum)",
+    also: "Founder @ Devis AI — web, AI & custom software agency",
+    languages: ["TypeScript", "JavaScript"],
+    specialties: ["React", "Next.js", "Node.js", "NestJS", "Multi-tenant SaaS"],
+    currentFocus: "AI infra — self-hosted LLMs on serverless GPUs",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
-- 🔭 I'm currently working at **Zibew.com** as a **Junior Web Developer**
-- 🌱 I'm currently learning **Python** and exploring **AI/ML concepts**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Mongoose, Electron.js, or anything tech!**
-- 📫 How to reach me: **mahfuz.alam.p0@gmail.com**
-- ⚡ Fun fact: **I love turning coffee into code ☕→💻**
+- 🔭 Building **Bleaum** — a retail POS SaaS platform for pharmacy & dispensary retailers
+- 🏢 Running **Devis AI**, my own software agency (web dev, AI, custom software)
+- 🌱 Currently exploring **serverless GPU inference** and self-hosted LLM infra
+- 👯 Looking to collaborate on **SaaS / full-stack TypeScript projects**
+- 💬 Ask me about **React, Next.js, Node.js, NestJS, or SaaS architecture**
+- 📫 Reach me: **mahfuz.alam.p0@gmail.com**
 
 ---
 
@@ -41,19 +42,19 @@ const mahfuz = {
 
 <div align="center">
 
-### 🎨 **Frontend Magic**
+### 🎨 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,electron,redux,tailwind,sass,bootstrap,mui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,tailwind,electron" />
 </p>
 
-### ⚙️ **Backend Power**
+### ⚙️ **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,py" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,prisma,redis" />
 </p>
 
-### 🔧 **Tools & Technologies**
+### 🔧 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman,docker,aws,vercel,ubuntu,linux,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel,linux,postman" />
 </p>
 
 </div>
@@ -68,7 +69,7 @@ const mahfuz = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-alam0&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mahfuz-alam0&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -80,27 +81,27 @@ const mahfuz = {
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz-alam0&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=mahfuz-alam0&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
 ## 🎯 **Current Goals**
 
-- 🐍 **Master** Python programming and explore AI/ML applications
-- 🚀 **Contribute** to more open-source projects
-- 📚 **Advance** my skills in full-stack development at Zibew
-- 🖥️ **Build** more desktop applications with Electron.js
-- 🤝 **Mentor** aspiring developers in the community
+- 🤖 **Build out** AI infra — hosting open-weight LLMs on serverless GPUs, OpenRouter provider
+- 📧 **Grow** Zysure — my multi-tenant email infrastructure SaaS
+- 🚀 **Scale** Devis AI client work and portfolio
+- 🇩🇪 **Level up** German (working toward C1) for upcoming relocation
+- 🤝 **Contribute** to open-source TypeScript/Next.js projects
 
 ---
 
-## 📬 **Let's Connect & Collaborate!**
+## 📬 **Let's Connect**
 
 <div align="center">
   
   <a href="https://mahfuz-alam0.github.io/personal/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&labelColor=FF5722"/>
   </a>
   <a href="https://www.linkedin.com/in/hasibul-mahfuz/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
@@ -108,15 +109,11 @@ const mahfuz = {
   <a href="mailto:mahfuz.alam.p0@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
-  </a>
   
   <br><br>
   
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
   
 </div>
 
@@ -124,38 +121,8 @@ const mahfuz = {
 
 <div align="center">
   
-  ### 💭 **Random Dev Quote**
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<details>
-<summary>🎮 <strong>Fun Fact Zone</strong></summary>
-
-```javascript
-while(sleeping == false) {
-    eatSnacks();
-    code();
-    coffee++;
-    if(coffee > 10) {
-        takeBreak();
-        coffee = 0;
-    }
-}
-```
-
-</details>
-
-<div align="center">
-  
-  ---
-  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
   
   **⭐ Star my repositories if you find them helpful!**
   
-  ### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
-  
 </div>
-
