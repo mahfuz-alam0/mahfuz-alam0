@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,100:6366F1&text=Mahfuz%20Alam&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20Devis%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,100:6366F1&text=Mahfuz%20Alam&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Co-Founder%20%40%20Devis%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Alagzoo+Corp;Founder+%40+Devis+AI;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;PHP+%7C+Laravel+%7C+Tauri+Desktop+Apps;Building+SaaS+products+%26+exploring+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Alagzoo+Corp;Co-Founder+%40+Devis+AI;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;PHP+%7C+Laravel+%7C+Tauri+Desktop+Apps;Building+SaaS+products+%26+exploring+AI" alt="Typing SVG" />
 
   <p>
     <a href="https://mahfuzalam.com"><img src="https://img.shields.io/badge/Portfolio-mahfuzalam.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -27,7 +27,7 @@ I'm a full-stack developer from Bangladesh building multi-tenant SaaS products a
 const mahfuz = {
   location: "Bangladesh 🇧🇩",
   role: "Full-Stack Developer @ Alagzoo Corp (Bleaum)",
-  founder: "Devis AI — web, AI & custom software agency",
+  coFounder: "Devis AI — web, AI & custom software agency",
   languages: ["TypeScript", "JavaScript", "PHP", "Rust (Tauri)"],
   frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
   backend: ["Node.js", "NestJS", "Express", "Laravel"],
@@ -43,14 +43,11 @@ const mahfuz = {
 
 | Role | Company | Period | Highlights |
 | --- | --- | --- | --- |
+| **Co-Founder** | Devis AI | Present | Co-running a software agency delivering web, desktop, AI & custom software for clients |
 | **Full-Stack Developer** | Alagzoo Corp ([Bleaum](https://bleaum.io)) | Aug 2025 – Present | Building the frontend of Bleaum and its POS product — a retail platform for pharmacy & cannabis dispensary businesses — with React and Next.js. Packaging the POS as a native desktop app with **Tauri**. |
 | **Junior Full-Stack Developer** | Zibew E-Commerce Services PTE LTD | Jul 2023 – Aug 2025 | Built UI components and features in React, **cutting development time for new features by 25%**. Integrated REST APIs and managed state across application modules. |
 | **React.js Developer (Intern)** | Zibew E-Commerce Services PTE LTD | May 2023 – Jun 2023 | Built responsive UI components with React and React Hooks alongside senior developers. |
 | **Freelance Full-Stack Developer** | Devis AI | Completed | Delivered full-stack web development, AI integration and custom software for international clients using Next.js, NestJS, PostgreSQL and MongoDB. |
-
-<!-- TODO: add back later
-| **Founder** | Devis AI | Running a software agency delivering web, desktop, AI & custom software for clients |
--->
 
 
 ---
