@@ -44,7 +44,11 @@ const mahfuz = {
 | Role | Company | Highlights |
 | --- | --- | --- |
 | **Full-Stack Developer** | Alagzoo Corp | Building **Bleaum**, a multi-tenant retail POS SaaS for pharmacy & dispensary retailers |
+
+<!-- TODO: add back later
 | **Founder** | Devis AI | Running a software agency delivering web, desktop, AI & custom software for clients |
+-->
+
 
 ---
 
