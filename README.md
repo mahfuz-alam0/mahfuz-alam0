@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://mahfuzalam.com"><img src="https://img.shields.io/badge/Portfolio-mahfuzalam.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/hasibul-mahfuz/"><img src="https://img.shields.io/badge/LinkedIn-hasibul--mahfuz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/mahfuz-alam-p0/"><img src="https://img.shields.io/badge/LinkedIn-mahfuz--alam--p0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:mahfuz.alam.p0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -39,14 +39,48 @@ const mahfuz = {
 
 ---
 
-## What I'm Working On
+## Experience
 
-| Project | Description |
-| --- | --- |
-| **Bleaum** | Retail POS SaaS platform for pharmacy & dispensary retailers |
-| **Devis AI** | My software agency — web development, AI solutions & custom software |
-| **Zysure** | Multi-tenant email infrastructure SaaS |
-| **AI Infra** | Hosting open-weight LLMs on serverless GPUs as an OpenRouter provider |
+| Role | Company | Highlights |
+| --- | --- | --- |
+| **Full-Stack Developer** | Alagzoo Corp | Building **Bleaum**, a multi-tenant retail POS SaaS for pharmacy & dispensary retailers |
+| **Founder** | Devis AI | Running a software agency delivering web, desktop, AI & custom software for clients |
+
+---
+
+## Core Expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Multi-tenant SaaS</b><br/>
+      <sub>Tenant isolation, role-based access, billing and scalable architecture with NestJS, Laravel and PostgreSQL.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Full-Stack Web</b><br/>
+      <sub>Fast, SEO-friendly products with React, Next.js and Tailwind, backed by typed REST APIs.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Desktop Applications</b><br/>
+      <sub>Cross-platform apps with Tauri and Electron — offline-first POS and business tools.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>AI Infrastructure</b><br/>
+      <sub>Self-hosting open-weight LLMs on serverless GPUs and integrating AI into real products.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Side Projects
+
+| Project | Description | Status |
+| --- | --- | --- |
+| **Zysure** | Multi-tenant email infrastructure SaaS | ![In progress](https://img.shields.io/badge/-In%20progress-6366F1?style=flat-square) |
+| **AI Infra** | Open-weight LLMs on serverless GPUs as an OpenRouter provider | ![In progress](https://img.shields.io/badge/-In%20progress-6366F1?style=flat-square) |
 
 ---
 
@@ -117,7 +151,7 @@ const mahfuz = {
 
   <p>
     <a href="https://mahfuzalam.com"><img src="https://img.shields.io/badge/Portfolio-mahfuzalam.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/hasibul-mahfuz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/mahfuz-alam-p0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:mahfuz.alam.p0@gmail.com"><img src="https://img.shields.io/badge/Email-mahfuz.alam.p0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
