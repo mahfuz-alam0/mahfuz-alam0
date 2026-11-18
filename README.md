@@ -1,71 +1,92 @@
 <div align="center">
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mahfuz%20Alam&fontAlignY=35&textBg=false&animation=fadeIn&rotate=0" />
-  
-  # Hey there! I'm **Mahfuz Alam**
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Alagzoo+Corp;Founder+%40+Devis+AI;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+Enthusiast" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mahfuz-alam0&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/mahfuz-alam0?label=Followers&style=social" alt="GitHub followers" />
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,100:6366F1&text=Mahfuz%20Alam&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20Devis%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Alagzoo+Corp;Founder+%40+Devis+AI;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;PHP+%7C+Laravel+%7C+Tauri+Desktop+Apps;Building+SaaS+%26+AI+infrastructure" alt="Typing SVG" />
+
+  <p>
+    <a href="https://mahfuzalam.com"><img src="https://img.shields.io/badge/Portfolio-mahfuzalam.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/hasibul-mahfuz/"><img src="https://img.shields.io/badge/LinkedIn-hasibul--mahfuz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mahfuz.alam.p0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mahfuz-alam0&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/mahfuz-alam0?label=Followers&style=flat-square&color=6366f1" alt="GitHub followers" />
   </p>
 
 </div>
 
 ---
 
-## 🚀 **About Me**
+## About Me
 
-```javascript
+I'm a full-stack developer from Bangladesh building multi-tenant SaaS products, cross-platform desktop apps, and AI infrastructure. I work across the JavaScript/TypeScript and PHP ecosystems — from React/Next.js frontends to NestJS and Laravel backends, and Electron/Tauri desktop clients.
+
+```ts
 const mahfuz = {
-    location: "Bangladesh 🇧🇩",
-    currentRole: "Full-Stack Developer @ Alagzoo Corp (Bleaum)",
-    also: "Founder @ Devis AI — web, AI & custom software agency",
-    languages: ["TypeScript", "JavaScript"],
-    specialties: ["React", "Next.js", "Node.js", "NestJS", "Multi-tenant SaaS"],
-    currentFocus: "AI infra — self-hosted LLMs on serverless GPUs",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+  location: "Bangladesh 🇧🇩",
+  role: "Full-Stack Developer @ Alagzoo Corp (Bleaum)",
+  founder: "Devis AI — web, AI & custom software agency",
+  languages: ["TypeScript", "JavaScript", "PHP", "Rust (Tauri)"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
+  backend: ["Node.js", "NestJS", "Express", "Laravel"],
+  desktop: ["Electron", "Tauri"],
+  focus: "AI infra — self-hosted LLMs on serverless GPUs",
+  portfolio: "https://mahfuzalam.com",
 };
 ```
 
-- 🔭 Building **Bleaum** — a retail POS SaaS platform for pharmacy & dispensary retailers
-- 🏢 Running **Devis AI**, my own software agency (web dev, AI, custom software)
-- 🌱 Currently exploring **serverless GPU inference** and self-hosted LLM infra
-- 👯 Looking to collaborate on **SaaS / full-stack TypeScript projects**
-- 💬 Ask me about **React, Next.js, Node.js, NestJS, or SaaS architecture**
-- 📫 Reach me: **mahfuz.alam.p0@gmail.com**
+---
+
+## What I'm Working On
+
+| Project | Description |
+| --- | --- |
+| **Bleaum** | Retail POS SaaS platform for pharmacy & dispensary retailers |
+| **Devis AI** | My software agency — web development, AI solutions & custom software |
+| **Zysure** | Multi-tenant email infrastructure SaaS |
+| **AI Infra** | Hosting open-weight LLMs on serverless GPUs as an OpenRouter provider |
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## Tech Stack
 
 <div align="center">
 
-### 🎨 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,tailwind,electron" />
-</p>
+**Languages**
 
-### ⚙️ **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,prisma,redis" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,php,rust,html,css&perline=10" />
 
-### 🔧 **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel,linux,postman" />
-</p>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind&perline=10" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel&perline=10" />
+
+**Desktop**
+
+<img src="https://skillicons.dev/icons?i=electron,tauri&perline=10" />
+
+**Databases & ORM**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=10" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,git,github,vscode,postman&perline=10" />
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mahfuz-alam0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahfuz-alam0&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=mahfuz-alam0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahfuz-alam0&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -78,51 +99,28 @@ const mahfuz = {
 
 ---
 
-## 🏆 **GitHub Trophies**
+## Current Goals
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=mahfuz-alam0&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 🎯 **Current Goals**
-
-- 🤖 **Build out** AI infra — hosting open-weight LLMs on serverless GPUs, OpenRouter provider
-- 📧 **Grow** Zysure — my multi-tenant email infrastructure SaaS
-- 🚀 **Scale** Devis AI client work and portfolio
-- 🇩🇪 **Level up** German (working toward C1) for upcoming relocation
-- 🤝 **Contribute** to open-source TypeScript/Next.js projects
+- **Build out** AI infrastructure — open-weight LLMs on serverless GPUs
+- **Grow** Zysure into a reliable multi-tenant email platform
+- **Scale** Devis AI client work — web, desktop (Tauri) and Laravel projects
+- **Reach** German C1 for an upcoming relocation
+- **Contribute** to open-source TypeScript, Next.js and Laravel projects
 
 ---
 
-## 📬 **Let's Connect**
+## Let's Connect
 
 <div align="center">
-  
-  <a href="https://mahfuz-alam0.github.io/personal/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&labelColor=FF5722"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hasibul-mahfuz/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="mailto:mahfuz.alam.p0@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-  
-  <br><br>
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  
-</div>
 
----
+  Open to collaboration on **SaaS**, **full-stack TypeScript**, **Laravel** and **desktop app** projects.
 
-<div align="center">
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
-  
-  **⭐ Star my repositories if you find them helpful!**
-  
+  <p>
+    <a href="https://mahfuzalam.com"><img src="https://img.shields.io/badge/Portfolio-mahfuzalam.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/hasibul-mahfuz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mahfuz.alam.p0@gmail.com"><img src="https://img.shields.io/badge/Email-mahfuz.alam.p0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:1a1b27&height=120&section=footer" />
+
 </div>
