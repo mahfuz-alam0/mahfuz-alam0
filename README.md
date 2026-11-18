@@ -43,11 +43,14 @@ const mahfuz = {
 
 | Role | Company | Period | Highlights |
 | --- | --- | --- | --- |
-| **Co-Founder** | Devis AI | Present | Co-running a software agency delivering web, desktop, AI & custom software for clients |
 | **Full-Stack Developer** | Alagzoo Corp ([Bleaum](https://bleaum.io)) | Aug 2025 – Present | Building the frontend of Bleaum and its POS product — a retail platform for pharmacy & cannabis dispensary businesses — with React and Next.js. Packaging the POS as a native desktop app with **Tauri**. |
 | **Junior Full-Stack Developer** | Zibew E-Commerce Services PTE LTD | Jul 2023 – Aug 2025 | Built UI components and features in React, **cutting development time for new features by 25%**. Integrated REST APIs and managed state across application modules. |
 | **React.js Developer (Intern)** | Zibew E-Commerce Services PTE LTD | May 2023 – Jun 2023 | Built responsive UI components with React and React Hooks alongside senior developers. |
 | **Freelance Full-Stack Developer** | Devis AI | Completed | Delivered full-stack web development, AI integration and custom software for international clients using Next.js, NestJS, PostgreSQL and MongoDB. |
+
+<!-- TODO: add back later (move this row to the top of the table above)
+| **Co-Founder** | Devis AI | Present | Co-running a software agency delivering web, desktop, AI & custom software for clients |
+-->
 
 
 ---
