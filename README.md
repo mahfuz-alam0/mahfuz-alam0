@@ -2,7 +2,7 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,100:6366F1&text=Mahfuz%20Alam&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20Devis%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Alagzoo+Corp;Founder+%40+Devis+AI;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;PHP+%7C+Laravel+%7C+Tauri+Desktop+Apps;Building+SaaS+%26+AI+infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Alagzoo+Corp;Founder+%40+Devis+AI;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;PHP+%7C+Laravel+%7C+Tauri+Desktop+Apps;Building+SaaS+products+%26+exploring+AI" alt="Typing SVG" />
 
   <p>
     <a href="https://mahfuzalam.com"><img src="https://img.shields.io/badge/Portfolio-mahfuzalam.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a full-stack developer from Bangladesh building multi-tenant SaaS products, cross-platform desktop apps, and AI infrastructure. I work across the JavaScript/TypeScript and PHP ecosystems — from React/Next.js frontends to NestJS and Laravel backends, and Electron/Tauri desktop clients.
+I'm a full-stack developer from Bangladesh building multi-tenant SaaS products and cross-platform desktop apps, and I'm currently exploring how AI can add real value to them. I work across the JavaScript/TypeScript and PHP ecosystems — from React/Next.js frontends to NestJS and Laravel backends, and Electron/Tauri desktop clients.
 
 ```ts
 const mahfuz = {
@@ -32,7 +32,7 @@ const mahfuz = {
   frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
   backend: ["Node.js", "NestJS", "Express", "Laravel"],
   desktop: ["Electron", "Tauri"],
-  focus: "AI infra — self-hosted LLMs on serverless GPUs",
+  exploring: "AI integrations & open-source LLMs",
   portfolio: "https://mahfuzalam.com",
 };
 ```
@@ -67,8 +67,8 @@ const mahfuz = {
       <sub>Cross-platform apps with Tauri and Electron — offline-first POS and business tools.</sub>
     </td>
     <td width="50%" valign="top">
-      <b>AI Infrastructure</b><br/>
-      <sub>Self-hosting open-weight LLMs on serverless GPUs and integrating AI into real products.</sub>
+      <b>AI Integration</b><br/>
+      <sub>Adding practical AI features to web apps and experimenting with open-source models.</sub>
     </td>
   </tr>
 </table>
@@ -80,7 +80,7 @@ const mahfuz = {
 | Project | Description | Status |
 | --- | --- | --- |
 | **Zysure** | Multi-tenant email infrastructure SaaS | ![In progress](https://img.shields.io/badge/-In%20progress-6366F1?style=flat-square) |
-| **AI Infra** | Open-weight LLMs on serverless GPUs as an OpenRouter provider | ![In progress](https://img.shields.io/badge/-In%20progress-6366F1?style=flat-square) |
+| **AI Experiments** | Learning to run open-source LLMs and use them in real projects | ![Exploring](https://img.shields.io/badge/-Exploring-64748B?style=flat-square) |
 
 ---
 
@@ -135,7 +135,7 @@ const mahfuz = {
 
 ## Current Goals
 
-- **Build out** AI infrastructure — open-weight LLMs on serverless GPUs
+- **Learn** how to run open-source LLMs and build useful AI features into products
 - **Grow** Zysure into a reliable multi-tenant email platform
 - **Scale** Devis AI client work — web, desktop (Tauri) and Laravel projects
 - **Reach** German C1 for an upcoming relocation
