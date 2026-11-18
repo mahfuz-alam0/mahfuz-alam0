@@ -1,6 +1,9 @@
 <div align="center">
 
+  <!-- TODO: add back later (Co-Founder title)
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,100:6366F1&text=Mahfuz%20Alam&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Co-Founder%20%40%20Devis%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+  -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,100:6366F1&text=Mahfuz%20Alam&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Building%20Scalable%20Web%20%26%20Desktop%20Products&descAlignY=58&descSize=18&animation=fadeIn" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Alagzoo+Corp;Co-Founder+%40+Devis+AI;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;PHP+%7C+Laravel+%7C+Tauri+Desktop+Apps;Building+SaaS+products+%26+exploring+AI" alt="Typing SVG" />
 
